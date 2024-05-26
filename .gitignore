@@ -1,0 +1,15 @@
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
